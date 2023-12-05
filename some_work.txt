@@ -1,0 +1,2 @@
+Integrated sensing and communication systems, resource allocation is crucial, influencing the performance and efficiency of both sensing and communication tasks
+Aim to utilize the same hardware and spectral resources for both sensing and communication activities
